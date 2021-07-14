@@ -1,0 +1,13 @@
+1. Create Application using dotnet CLI 
+2. Create MVC Core Application using dotnet CLI 
+3. Containerize Dotnet Application 
+Containerize an app with Docker(Console)
+(MVC)
+4. Create project in VS, create Container Registry & upload it to Azure
+5. Check it in VM, pull this image (ACR) in VM
+6. Create Account in Azure Devops portal , create Organization , 
+https://dev.azure.com 
+7. Create Azure Devops Starter (use github/ Azure Devops)
+
+ 
+
